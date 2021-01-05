@@ -20,7 +20,7 @@
   "homepage": "https://github.com/fumacarne/spotinder#readme",
   "dependencies": {
     "argon2": "^0.26.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "express": "^4.17.1",
     "express-handlebars": "^3.1.0",
     "express-jwt": "^5.3.1",
